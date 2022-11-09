@@ -4,7 +4,7 @@ Imagina que tenho uma tomada, e preciso fazer meu aparelho se encaixar na tomada
  
  ![image](https://user-images.githubusercontent.com/91797963/200861032-69e7c3eb-f594-4949-a04a-f502509d517f.png)
 
-Para conseguir fazer essa conexão, colocamos um adaptador no meio deles para ambos se encaixarem?
+Para conseguir fazer essa conexão, colocamos um adaptador no meio deles para ambos se encaixarem:
  
  ![image](https://user-images.githubusercontent.com/91797963/200861409-9cf9b5a2-d957-4605-bc3e-2fa26545fb85.png)
 
