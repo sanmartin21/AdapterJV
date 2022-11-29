@@ -10,3 +10,8 @@ Para conseguir fazer essa conexão, colocamos um adaptador no meio deles para am
 
 É exatamente isso que é feito no meio do desenvolvimento quando temos uma classe que queremos utilizar em outra classe, mas ambas não são compatíveis, ou não implementam a mesma interface.
 #Então nesses casos precisaremos de uma classe que serve de adaptador.
+
+
+Exemplo que implementei:
+
+![image](https://user-images.githubusercontent.com/91797963/204425597-5d04945d-aaf6-4414-a88b-41f524e7ecd0.png)
