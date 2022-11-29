@@ -1,6 +1,6 @@
 # AdapterJV
 
-Imagina que tenho uma tomada, e preciso fazer meu aparelho se encaixar na tomada, porém as entradas e conexões não são compatíveis:
+Imagina que tenho uma tomada, e preciso fazer meu aparelho se encaixar na tomada de algum aparelho, porém as entradas e conexões não são compatíveis:
  
  ![image](https://user-images.githubusercontent.com/91797963/200861032-69e7c3eb-f594-4949-a04a-f502509d517f.png)
 
